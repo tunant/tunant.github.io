@@ -622,6 +622,9 @@ footer {
 .foot-copyright{
   text-align: center;
 }
+.foot-copyright p small {
+  margin-right: 8px;
+}
 
 
 /* ==========================================================================
